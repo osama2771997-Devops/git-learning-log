@@ -1,6 +1,5 @@
 # Conflict Practice
 
-
 This file is for practice merge conflict resolution
 
 # Conflict Practice
@@ -15,3 +14,9 @@ This file is for practice merge conflict resolution
 - Cursor for editing
 - Git CLI for version control
 - GitHub for collaboration
+
+## Lessons Learned
+
+- Merge conflicts are normal and not scary
+- Rebase rewrites history, so only use it on local branches
+- Interactive rebase is powerful for cleaning up work before sharing
